@@ -1,4 +1,4 @@
-// Problem: Remove Duplicated From Sorted Array (Leetcode #121)
+// Problem: Remove Duplicated From Sorted Array (Leetcode #26)
 // Pattern: Two pointers 
 // Difficulty: Easy
 // Time Complexity: O(n)
